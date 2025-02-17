@@ -10,7 +10,7 @@ type Props = {
   closeNav: () => void;
 }
 
-const MobleNav = (closeNav: boolean, showNav: Props) => {
+const MobleNav = ({ closeNav, showNav }: Props) => {
   const navOpen = showNav ? "translate-x-0":"translate-x-[-100%]";
   return (
     <div>
