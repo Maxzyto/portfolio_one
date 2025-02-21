@@ -37,8 +37,8 @@ const Nav = ({ openNav }: Props) => {
         <Image
           src="/images/Logo.png"
           alt="LOGO"
-          width={110}
-          height={110}
+          width={100}
+          height={100}
           className="ml-[-1.5rem] sm:ml-0 "
         />
         {/* { Nav Links } */}

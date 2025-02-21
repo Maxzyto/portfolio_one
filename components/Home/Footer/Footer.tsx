@@ -14,7 +14,7 @@ const Footer = () => {
         <div>Reviews.</div>
         <div>Contact.</div>
       </div>
-      <p className='text-white text-opacity-60 mt-6 text-center '>@ 2024 All Rights Reserved by DeMax Tech</p>
+      <p className='text-white text-opacity-60 mt-6 text-center '>@ 2025 All Rights Reserved by Max Konnect </p>
     </div>
   )
 }
